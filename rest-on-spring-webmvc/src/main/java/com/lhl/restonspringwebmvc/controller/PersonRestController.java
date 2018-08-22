@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * Created by hongliang.liu on 2018/8/22.
+ * Created by hongliang.liu on 2018/8/22.WebMvcConfigurationSupport
  */
 @RestController
 public class PersonRestController {
